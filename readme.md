@@ -4,6 +4,8 @@
 Элементы: шрам на руке, глаза на лице, браслет на руке
 Модификаторы: материал браслета, цвет глаз, плоскостопие 
 
+
+
 #Задание 2
 
 ```
@@ -22,5 +24,4 @@ blockquote.quote>p.quote__text+figure.quote__caption>img.quote__avatar+figcaptio
 ![форма](img/form.png)
 
 form.form>(input.form__name+input.form__email+input.form__budget+input.form__text+input.form__send)
-
 ```
